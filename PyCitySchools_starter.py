@@ -4,7 +4,17 @@
 # # PyCity Schools Analysis
 # 
 # - Your analysis here
-# This district allocates $24.6 million to the 15 schools in their district. Across all schools, students appear to be more proficient in reading than math. However, the overall passing rate is significantly lower than the passing rates for reading and math, which indicates that students are struggling in subjects apart from reading or math that are preventing them from passing school. When looking more closely at performance metrics, the 5 schools with the highest passing grades are all charter schools, while the 5 schools with the lowest passing grades are all district schools. This is a concerning finding when considering that per-student spending is higher in district schools than charter schools. Overall, this suggests that charter schools may have a better learning structure for students than district schools, and that they may be better allocating their restricted funds than the district schools with more spending flexibilities. 
+# This district allocates $24.6 million to the 15 schools in their district. 
+Across all schools, students appear to be more proficient in reading than math. 
+However, the overall passing rate is significantly lower than the passing rates for 
+reading and math, which indicates that students are struggling in subjects apart from 
+reading or math that are preventing them from passing school. When looking more closely 
+at performance metrics, the 5 schools with the highest passing grades are all charter schools, 
+while the 5 schools with the lowest passing grades are all district schools. This is a concerning 
+finding when considering that per-student spending is higher in district schools than in charter schools. 
+Overall, this suggests that charter schools may have a better learning structure for students than 
+district schools and that they may be better at allocating their restricted funds than the 
+district schools with more spending flexibilities. 
 # ---
 
 # In[1]:
